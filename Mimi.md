@@ -111,7 +111,7 @@
   </div>
 
   <footer>
-    Made with love by You, for Mimi.
+    Made with love by Dadi, for Mimi.
   </footer>
 </body>
 </html>
